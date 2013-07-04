@@ -1,0 +1,17 @@
+
+(LOCATION)(Priority Level 1-10):
+	-(Object)(Priority Level):
+		-(Object Elements)(Priority Level)
+
+
+HOMETOWN(1):
+	-Doors(1):
+		- functional
+		- needs refining
+	-Cave(2):
+		- Top-Right, is where we get our first pokemon
+		- Not made yet
+	-Bugs(10):
+		-Surfing on the water (top-left)
+			-can't move on water
+			-can't unsurf
