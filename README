@@ -1,12 +1,153 @@
 
+v11 is the game so far, v12 is the updated Pokemon Essentials (They have a wiki with semi crappy documentation on some things).
+
+
+You will need to have RPG Maker XP to run the game/change anything really. It's like 30$, but my guess is you can find a way to not pay that if you try.
+
+----------------['@CONCEPT']-----------------------------------|
+
+NAME IDEAS: (Ascension, Inferno)
+
+STARTERS: (Poliwag,Rhydon,Elekid)
+
+THEME: Humans and pokemon forced underground by dragon pokemon
+	- Dragon Trainers?
+
+STORY: 	Protagonist is part of second generation of humans born below ground.
+	Only has father, who is a poor miner.
+	Begin at low levels of civilization, resources mined and sent up.
+	Leave home:
+	   *(Leave to make money to support family.)*
+	   *(Pokemon competition for chance to live at highest level society.)*
+	
+LEGENDARIES:
+
+MOLTRES:
+	-In the volcano area. Resisting human expansion.
+
+TERRAKION:
+
+||||---------['@MAPCONCEPT']
+
+     ROCK/FIGHTING:	Dig site/mines where protagonist is from.
+			Underdeveloped and in expansion.
+
+     ELECTRIC/STEEL:	Powerplant.
+
+     FLYING/BUG: 	'Terrarium' style area (ie. a giant bird cage).
+			Hole in the roof allows sunlight and plant growth.
+			Second closest area to surface.
+
+     FIRE/GROUND:	Conflict between ground and fire (humans and pokemon).
+			Humans using ground pokemon to expand through magma.
+			Moltres primary opponent.
+
+     WATER/DARK:	Either:
+				-Pools (using "Dive")
+				-Underwater Passage
+				-Large underwater lake
+
+     ICE/GROUND:		Permafrosted area/ice cave
+
+     GHOST/POISON:	Abandoned mineshaft(site of digging accident with death?)
+			Poison leaking/corrupted ground.
+			Cultists/Bandits.
+
+     PSYCHIC/NORMAL:	Civilized society.
+   			Oldest colony and most developed.
+			Closest to the surface of any area.
+
+||||---------['@ENDMAPCONCEPT']	
+
+----------------['@ENDCONCEPT']--------------------------------|
+
+
+
+----------------['@TYPES']-------------------------------------|
+
+Pokemon by Type:
+
+NORMAL:	(Happiny,Chancey,Blissey)
+	(Slakoth,Vigoroth,Slaking)
+	(Miltank)
+	(Kecleo)
+
+FIRE:	(Magby,Magmar,Magmortar)
+	(Heatmor)
+	(Slugma,Magcargo)
+	(Larvesta,Volcarona)
+
+WATER:	(Chinchou,Lantern)
+	(Shellder,Cloyster)
+	(Staryu,Starmie)
+	(Shellos,Gastrodon)
+
+ELECTRIC:(Pichu,Pikachu,Raichu)
+	(Mareep,Flaafy,Ampharos)
+	(Voltorb,Electrode)
+
+GROUND:	(Diglett,Dugtrio)
+	(Hippopatas,Hippowdon)
+	(Drillbur,Excadrill)
+	(Numel,Camerupt)
+
+ROCK:	(Onix,Steelix)
+	(Lileep,Cradily)
+	(Cranios,Rampardos)
+	(Dwebble,Crustle)
+
+ICE:	(Lapras)
+	(Sneasle,Weavile)
+	(Cubchoo,Beartic)
+	(Swinub,Pillowswine,Mamoswine)
+
+BUG:	(Scyther,Scizor)
+	(Paras,Parasect)
+	(Caterpie,Metapod,Butterfree)
+	(Pincer)
+
+Flying:	(Starly,Starvaria,Staraptor)
+	(Zubat,Golbat,Crobat)
+	(Aerodactyl)
+	(Archen,Archeops)
+
+GHOST:	(Ghastly,Haunter,Gengar)
+	(Sableye)
+	(Duskull,Dusklops,Dusknoir)
+	(Spiritomb)
+
+PSYCHIC:(Exeggute,Exeggutor)
+	(Solosis,Duosion,Reuniclus)
+	(Mime Jr.,Mr. Mime)
+	(Sigilyph)
+
+DARK:	(Carvanha,Sharpedo)
+	(Zorua,Zoroark)
+	(Corphish,Crawdaunt)
+	(Poochyena,Mightyena)
+
+STEEL:	(Magnemite,Magneton,Magnezone)
+	(Beldum,Metang,Metagross)
+	(Ferroseed,Ferrothorn)
+
+FIGHTING:(Riolu,Lucario)
+	(Shroomish,Breloom)
+	(Timburr,Gurdurr,Conkeldurr)
+	(Heracross)
+
+POISON:	(Grimer,Muk)
+	(Bellsprout,Weepinbell,Victreebell)
+	(Tentacool,Tentacruel)
+	(Seviper)
+
+----------------['@ENDTYPES']---------------------------------------|
+
+
+----------------['@MAPSTATE']---------------------------------------|
+
 (LOCATION)(Priority Level 1-10):
 	-(Object)(Priority Level):
 		-(Object Elements)(Priority Level)
-
-
-v11 is the game so far, v12 is the updated Pokemon Essentials (They have a wiki with semi crappy documentation on some things).
-
-You will need to have RPG Maker XP to run the game/change anything really. It's like 30$, but my guess is you can find a way to not pay that if you try.
 
 HOMETOWN(1):
 	-Doors(1):
@@ -19,3 +160,5 @@ HOMETOWN(1):
 		-Surfing on the water (top-left)
 			-can't move on water
 			-can't unsurf
+
+----------------['@ENDMAPSTATE']------------------------------------|			
